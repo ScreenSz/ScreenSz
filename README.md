@@ -8,7 +8,7 @@
 ### Um pouco sobre mim:
 
 - 🛠 &nbsp; Atualmente estou estudando NodeJS, Lua e JavaScript.
-- 👨🏻‍💻 &nbsp; Diversos projetos meus estão disponíveis no meu [Github](https://github.com/ScreenSz).
+- 👨🏻‍💻 &nbsp; Diversos projetos meus estão disponíveis no meu [Github](https://github.com/ScreenSz?tab=repositories).
 - 📫 &nbsp; Para entrar em contato: ScreenSz#0001 no Discord
 
 ### Linguagens de Programação:
